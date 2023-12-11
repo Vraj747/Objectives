@@ -1,0 +1,25 @@
+@media screen and (max-width: 1200px){
+    aside{
+        background-image: url(../Images/Gandhi3.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        min-height: 600px;
+        background: blur(20px);
+        
+    }
+    img{
+        width: 80%;
+    }
+
+}
+@media screen and (min-width: 1201px) and (max-width: 1920px){
+    aside{
+        background-image: url(../Images/Gandhi2.jpg);
+        background-size:  cover;
+        min-height: 500px ;
+        background: blur(20px);
+    }
+    img{
+        width: 60%;
+    }
+}
